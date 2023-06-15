@@ -1,4 +1,4 @@
-FROM python:3.7.12-slim-bullseye
+FROM python:3.7.17-slim-bullseye
 
 # set up the psycopg2
 # set up the psycopg2
